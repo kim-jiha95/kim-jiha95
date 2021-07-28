@@ -1,6 +1,6 @@
 # 커밋 먹는 뱀 그래프 생성을 위한 GitHub Action🐍
 
-name: Generate Snake
+name: Generate Snake_
 
 # Action이 언제 구동될지 결정
 
