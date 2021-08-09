@@ -1,5 +1,6 @@
 ![snake_gif](https://github.com/kim-jiha95/kim-jiha95/blob/output/github-contribution-grid-snake.gif)
 
+
 <!--
 **kim-jiha95/kim-jiha95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
