@@ -27,9 +27,9 @@ Contact me
 <img src="https://github.com/kim-jiha95/kim-jiha95/blob/output/github-contribution-grid-snake.gif" align=center style="object-fit : none; width : 500px; height : auto"/>
 </a>
 </div>
-(https://github-readme-stats.vercel.app/api?username=kim-jiha95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
+<!-- (https://github-readme-stats.vercel.app/api?username=kim-jiha95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/> -->
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jiha95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jiha95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 ![snake_gif](https://github.com/kim-jiha95/kim-jiha95/blob/output/github-contribution-grid-snake.gif) 
