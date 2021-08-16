@@ -30,7 +30,13 @@ Contact me
 
 
 <!-- 
-![snake_gif](https://github.com/kim-jiha95/kim-jiha95/blob/output/github-contribution-grid-snake.gif) -->
+![snake_gif](https://github.com/kim-jiha95/kim-jiha95/blob/output/github-contribution-grid-snake.gif) 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jiha95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jiha95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
