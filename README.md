@@ -5,7 +5,7 @@
 <p>
 Interested in App Develope📱
   
-<br><br> Tech-stack<br>  <img alt="%20%20%20%20" src="https://img.shields.io/badge/-%20%20%20%20-black?style=plastic&logo=Java&logoColor=yellow"> <img alt="%20%20%20%20" src="https://img.shields.io/badge/-%20%20%20%20-30ae03?style=plastic&logo=Spring&logoColor=black"> <img alt="%20" src="https://img.shields.io/badge/-%20-white?style=plastic&logo=HTML5&logoColor=blue"> <img alt="%20" src="https://img.shields.io/badge/-%20-ff5475?style=plastic&logo=CSS3&logoColor=white">
+<br><br> Tech-stack<br>  <img alt="%20%20%20%20" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img alt="%20" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img alt="%20" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge"><img alt="%20" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 <br><br>BOJ tier <br> <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xb205">
 <br><br>
 Contact me
