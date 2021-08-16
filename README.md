@@ -11,10 +11,10 @@ Interested in App Develope📱
 Contact me
 <br>
 <p>
-🐒Blog : <a href="https://dlwnsdud205.tistory.com" target="_blank">dlwnsdud205.tistory.com</a> ☚
+🐒Blog : <a href="https://velog.io/@kim-jiha95" target="_blank">https://velog.io/@kim-jiha95</a> ☚
 </p>
 <p>
-📫Email : develxb@gmail.com 
+📫Email : kimjiha1112@gmail.com 
 </p>
 <br> 
 </p>
