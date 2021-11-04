@@ -10,12 +10,7 @@
 <br><br>
 Contact me
 <br>
-<p>
-🐒Blog : <a href="https://velog.io/@kim-jiha95" target="_blank">https://velog.io/@kim-jiha95</a> ☚
-</p>
-<p>
-📫Email : kimjiha1112@gmail.com 
-</p>
+
 <br> 
 </p>
 
