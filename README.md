@@ -1,9 +1,6 @@
 I'm Product Driven Developer Conner📱
 
 <h2 align = "center"> </h2>
-
-<div align="center">
-  
 I want to make App be help of AI industry
  
 <!-- <br><br> Tech-stack<br>  <img alt="%20%20%20%20" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img alt="%20" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img alt="%20" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge"><img alt="%20" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
