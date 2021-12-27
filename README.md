@@ -1,5 +1,4 @@
 I'm Product Driven Developer Conner📱
-
 <h2 align = "center"> </h2>
 I want to make App be help of AI industry
  
