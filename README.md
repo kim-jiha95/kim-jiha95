@@ -3,7 +3,6 @@ I'm Product Driven Developer Conner📱
 <h2 align = "center"> </h2>
 
 <div align="center">
-<p>
   
 I want to make App be help of AI industry
  
