@@ -1,7 +1,7 @@
 ## I'm Product Driven Develop conner 📱
 
 
-### I will made app be help of AI industry .
+### I will make app be help of AI industry .
 
 * [Walki](https://github.com/nain93/walki-client)
 
