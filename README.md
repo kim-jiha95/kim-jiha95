@@ -1,4 +1,4 @@
-## I'm Product Driven Develop conner 📱
+## I'm Product Driven Developer conner 📱
 
 
 ### I will make app be help of AI industry .
