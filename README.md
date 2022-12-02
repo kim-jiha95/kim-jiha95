@@ -6,7 +6,7 @@
 * [ZUNI](http://zuni.dothome.co.kr/) ([opensea](https://opensea.io/collection/zuni-v2?tab=activity))
 
 
-* [옥자가 왜그럴까](http://elice-kdt-ai-3rd-team14.elicecoding.com/)
+* [~~옥자가 왜그럴까~~](http://elice-kdt-ai-3rd-team14.elicecoding.com/)
 
 
 * [Walki](https://play.google.com/store/apps/details?id=com.walkiclient)
