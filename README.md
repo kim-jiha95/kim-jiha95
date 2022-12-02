@@ -1,7 +1,7 @@
 ## I'm Product Driven Developer conner 📱
 
 
-### I will make app be help of AI industry .
+### 
 
 * [ZUNI](http://zuni.dothome.co.kr/) ([opensea](https://opensea.io/collection/zuni-v2?tab=activity))
 
