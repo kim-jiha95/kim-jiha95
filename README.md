@@ -2,9 +2,9 @@
 
 ###
 
-- [ZUNI](http://zuni.dothome.co.kr/) ([opensea](https://opensea.io/collection/zuni-v2?tab=activity))
+- [~~ZUNI~~](http://zuni.dothome.co.kr/) ([opensea](https://opensea.io/collection/zuni-v2?tab=activity))
 
-- [Walki](https://play.google.com/store/apps/details?id=com.walkiclient)
+- [~~Walki~~](https://play.google.com/store/apps/details?id=com.walkiclient)
 
 - [urbookmybook](https://play.google.com/store/apps/details?id=com.conner_kim.ybmb)
 
